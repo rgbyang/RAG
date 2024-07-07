@@ -1,3 +1,5 @@
+\[ English | [中文](README_zh.md) \]
+
 ## Overview
 
 - A basic LLM (Large Language Model) application as knowledge base. To help you to understand the basic workflow and funcitons of this type application of LLM.
